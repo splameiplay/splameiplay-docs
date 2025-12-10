@@ -4,14 +4,15 @@ Before you can use SplameiPlay you need to install it. You can do that through t
 
 Once your own the page you'll want to do the following:
 
-1. Scroll down to the 'Download' button and press it
-2. Google Chrome may block the download because it's not downloaded alot
-3. Extract the `.zip`  file and open the `SplameiPlay.exe` file. If Windows SmartScreen prompts a warning, tell it to run anyway
-4. Follow the steps to complete the installer
-5. Once finished, you should see the screen below:
+1. Press the download button on the top or bottom of the page.
+   1. Though unlikely, your web browser or anti-virus may block the download for the installer. If you can, try allowing the download anyway if supported. You should not disable your AV however.
+2. Open the now downloaded `SplameiPlay Installer.exe` file
+   1. Windows SmartScreen may trigger warning that the app is 'unrecognised'. This is because SplameiPlay is not widely known. You can safely ignore this message by pressing 'More Info' > 'Run anyway'
+3. Follow the steps from the installer to get the app installed correctly. This won't take long
+4. When the app is installed, you should see the following screen:
 
-<figure><img src="../.gitbook/assets/image_2025-01-17_205740115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/New SplameiPlay Installer.png" alt=""><figcaption></figcaption></figure>
 
-Make sure that 'Launch SplameiPlay' is checked to start SplameiPlay.
+You can now press 'Finish' to close the installer. The app will automatically launch if you had 'Open SplameiPlay' checked. You can also launch it via the Start Menu.
 
-SplameIPlay is now installed and ready to use and can be launched through the start menu
+On the initial launch of the app after installing, SplameiPlay Update will download the latest version of SplameiPlay. This process may take some time depending on your internet speeds. Update will launch the app for you once it finishes.
