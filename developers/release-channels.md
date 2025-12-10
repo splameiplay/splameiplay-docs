@@ -10,11 +10,11 @@ As mentioned earlier, you require SplameiPlay 4.3 Bloom or later and SplameiPlay
 If your a general user of SplameiPlay, you shouldn't change the release channel since the app may become unstable or unusable. This is only for developers to test on pre-release versions.
 {% endhint %}
 
-| Name   | Recommended usage      | Release Frequency | Release Stability |
-| ------ | ---------------------- | ----------------- | ----------------- |
-| Stable | General Users          | Rare              | Very stable       |
-| Beta   | Power Users (Insiders) | Uncommon          | Mostly stable     |
-| Alpha  | Developers             | Common            | Likely issues     |
+| Name   | Recommended usage      | Release Frequency | Release Stability | Latest Release         |
+| ------ | ---------------------- | ----------------- | ----------------- | ---------------------- |
+| Stable | General Users          | Rare              | Very stable       | 4.8 Bloom              |
+| Beta   | Power Users (Insiders) | Uncommon          | Mostly stable     | 4.8 Bloom              |
+| Alpha  | Developers             | Common            | Likely issues     | 5.0 Particle Alpha 3/3 |
 
 ## Stable Channel
 
