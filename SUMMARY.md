@@ -21,3 +21,7 @@
 * [Sever Syntax (Legacy)](developers/sever-syntax-legacy.md)
 * [Release Channels](developers/release-channels.md)
 * [Error Codes](developers/error-codes.md)
+
+***
+
+* [Help improve these docs](help-improve-these-docs.md)
