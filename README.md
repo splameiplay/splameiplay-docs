@@ -3,7 +3,7 @@
 This is the official documentation on how to use SplameiPlay and how to develop for it.
 
 {% hint style="info" %}
-This documentation is for SplameiPlay 4.x Bloom (Stable) and not for 5.x Particle (Alpha)
+This documentation is for SplameiPlay 4.x Bloom (Stable) and not for 5.x Particle (Alpha) and other SplameiPlay editions
 {% endhint %}
 
 <figure><img src=".gitbook/assets/Bloom Background.png" alt=""><figcaption></figcaption></figure>
