@@ -6,11 +6,11 @@ From SplameiPlay 4.3 Bloom and the introduction of SplameiPlay Update, it is pos
 If your a general user of SplameiPlay, you shouldn't change the release channel to prevent the app from becoming unstable or unusable. This is only for developers to test on pre-release releases.
 {% endhint %}
 
-| Name   | Recommended usage      | Release Frequency | Release Stability | Latest Release         |
-| ------ | ---------------------- | ----------------- | ----------------- | ---------------------- |
-| Stable | General Users          | Rare              | Very stable       | 4.8 Bloom              |
-| Beta   | Power Users (Insiders) | Uncommon          | Mostly stable     | 4.8 Bloom              |
-| Alpha  | Developers             | Common            | Likely issues     | 5.0 Particle Alpha 3/3 |
+| Name   | Recommended usage        | Release Frequency | Release Stability | Latest Release         |
+| ------ | ------------------------ | ----------------- | ----------------- | ---------------------- |
+| Stable | General Users            | Rare              | Very stable       | 4.8 Bloom              |
+| Beta   | Power Users and Insiders | Uncommon          | Mostly stable     | 4.8 Bloom              |
+| Alpha  | Developers               | Common            | Likely issues     | 5.0 Particle Alpha 5/5 |
 
 ## Stable Channel
 
