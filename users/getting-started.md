@@ -1,6 +1,6 @@
 # Getting Started
 
-Before you can use SplameiPlay you need to install it. You can do that through the [official download page](https://veemo.uk/splameiplay).
+Before you can use SplameiPlay you need to install it. You can do that through the [official download page](https://veemo.uk/splameiplay/download/).
 
 Once your own the page you'll want to do the following:
 
