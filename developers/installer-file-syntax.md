@@ -10,7 +10,7 @@ Using this, your installer file will look something like this:
 FileVer=1.0
 Type=1
 
-Name=Rhythm Plus
+Name=Rhythm Plus - Splamei Client
 Author=Splamei
 
 SupportsWindows=True

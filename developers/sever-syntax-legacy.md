@@ -1,7 +1,7 @@
 # Sever Syntax (Legacy)
 
 {% hint style="warning" %}
-As of SplameiPlay 4.2 Bloom, this server syntax is no longer in use. Please use the updated syntax from now on
+As of SplameiPlay 4.2 Bloom, this server syntax is no longer in use and is deprecated. Please use the updated syntax for modern SplameiPlay support
 {% endhint %}
 
 SplameiPlay needs data to access data through a Http `GET` request. Below is a table with all the data SplameiPlay expects. The URL your provided will be shown in the table as the '\~' symbol

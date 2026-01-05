@@ -2,12 +2,8 @@
 
 From SplameiPlay 4.3 Bloom and the introduction of SplameiPlay Update, it is possible to change the release channel of SplameiPlay which is useful for power users or developers. Below is a table listing each release channels features and problems and advanced descriptions for each channel.
 
-{% hint style="info" %}
-As mentioned earlier, you require SplameiPlay 4.3 Bloom or later and SplameiPlay Update to use release channels.
-{% endhint %}
-
 {% hint style="warning" %}
-If your a general user of SplameiPlay, you shouldn't change the release channel since the app may become unstable or unusable. This is only for developers to test on pre-release versions.
+If your a general user of SplameiPlay, you shouldn't change the release channel to prevent the app from becoming unstable or unusable. This is only for developers to test on pre-release releases.
 {% endhint %}
 
 | Name   | Recommended usage      | Release Frequency | Release Stability | Latest Release         |
@@ -22,7 +18,7 @@ This is the default release channel used by SplameiPlay. It's recommended to use
 
 ## Beta Channel
 
-The Beta channel receives more updates than the Stable channel however, it will contain more bug and issues however, the Beta channel is tested to fix some of the major problems. It's recommended to be used for those who wish to access new features earlier and do not mind the issue that may occur.
+The Beta channel receives more updates than the Stable channel however, it will contain more bugs and issues however, the Beta channel is tested to fix some of the major problems. It's recommended to be used for those who wish to access new features earlier and do not mind the issue that may occur.
 
 ## Alpha Channel
 

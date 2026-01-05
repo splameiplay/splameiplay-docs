@@ -9,4 +9,4 @@ SplameiPlay may have an issues at anytime which means it may not work. Below are
 * Update SplameiPlay
 * Uninstall, then reinstall SplameiPlay
 
-If none of these work, something may be really wrong with SplameiPlay. If so please email us at [splamei.vt@gmail.com](mailto:splamei.vt@gmail.com). If you understand the technical side of computers and SplameiPlay, you may want to check out the [error codes page](../developers/error-codes.md) for more in-depth help.
+If none of these work, something may be really wrong with SplameiPlay. If so please email us via email on [social@veemo.uk](mailto:social@veemo.uk). If you understand the technical side of computers and SplameiPlay, you may want to check out the [error codes page](../developers/error-codes.md) for exact reasons for each error code
